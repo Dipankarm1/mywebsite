@@ -1,0 +1,117 @@
+.all{
+  text-align: center;
+  background-color:#d8d3cd;
+}
+.text1{
+  font-family: sans-serif;
+}
+.title{
+font-family: sans-serif;
+  color:#07689f;
+  text-align: center;
+}
+.navbar navbar-expand-lg navbar-dark bg-dark{
+padding: 50px 50px;
+}
+.picture1{
+  align-items:center;
+max-width: 30%;
+margin: auto;
+}
+.netaji{
+  color: #e11d74;
+}
+.picture2{
+  align-items:center;
+max-width: 30%;
+margin: auto;
+}
+.picture3{
+  align-items:center;
+max-width: 30%;
+margin: auto;
+}
+.table {
+  font-family: 'Alfa Slab One', cursive;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.con1{
+  background-color: #99f3bd;
+
+}
+.con2{
+  background-color:  #e5df88;
+}
+.media1{
+  background-color: white;
+  padding: 40px;
+text-align: center;
+width: auto;
+border-bottom: 0;
+}
+.facebook{
+  padding-right: 30px;
+}
+.Twitter{
+padding-right: 30px;
+}
+.Instagram{
+  padding-right: 30px;
+}
+.navbar-brand{
+  padding-right:50px;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
